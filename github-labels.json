@@ -1,0 +1,46 @@
+[
+  { "name": "os ⋅ electron", "color": "#0097A7" },
+  { "name": "os ⋅ linux", "color": "#0097A7" },
+  { "name": "os ⋅ mac", "color": "#0097A7" },
+  { "name": "os ⋅ indows", "color": "#0097A7" },
+
+  { "name": "webpack v2", "color": "#CFD8DC" },
+  { "name": "webpack v3", "color": "#90A4AE" },
+  { "name": "webpack v4", "color": "#607D8B" },
+
+  { "name": "p¹ 🔥🔥🔥 critical", "color": "#E53935" },
+  { "name": "p² 🔥🔥 important", "color": "#FB8C00" },
+  { "name": "p³ 🔥 nice to have", "color": "#FDD835" },
+  { "name": "p⁴ 💧 low", "color": "#039BE5" },
+
+  { "name": "kind 🐛  bug", "color": "#FF420B" },
+  { "name": "kind ✨ enhancement", "color": "#18AEFF" },
+  { "name": "kind✨ feature", "color": "#2ecc71" },
+  { "name": "kind ⋅ regression", "color": "#0052cc" },
+
+  { "name": "c¹ ⋅ discussion", "color": "#1976D2" },
+  { "name": "c² ⋅ feedback wanted", "color": "#F9A825" },
+  { "name": "c³ ⋅ need more info", "color": "#6A1B9A" },
+  { "name": "c⁴ ⋅ question", "color": "#C2185B" },
+  { "name": "c⁵ ⋅ request for comments", "color": "#BBDEFB" },
+
+  { "name": "help wanted", "color": "#1B5E20" },
+  { "name": "in progress", "color": "#4CAF50" },
+  { "name": "todo", "color": "#311B92" },
+  { "name": "waiting on upstream", "color": "#0D47A1" },
+
+  { "name": "💩 template incomplete", "color": "#4E342E" },
+  { "name": "💩 template removed", "color": "#4E342E" },
+
+  { "name": "x¹ ⋅ abandoned", "color": "#CFD8DC" },
+  { "name": "x² ⋅ duplicate", "color": "#CFD8DC" },
+  { "name": "x³ ⋅ hold", "color": "#CFD8DC" },
+  { "name": "x⁴ ⋅ invalid", "color": "#CFD8DC" },
+  { "name": "x⁵ ⋅ wontfix", "color": "#CFD8DC" },
+
+  { "name": "v¹ ⋅ alpha", "color": "#CDDC39" },
+  { "name": "v² ⋅ beta", "color": "#FFEB3B" },
+  { "name": "v³ ⋅ major", "color": "#FF9800" },
+  { "name": "v⁴ ⋅ minor", "color": "#FFC107" },
+  { "name": "v⁵ ⋅ next", "color": "#CDDC39" }
+]
