@@ -2,7 +2,7 @@
   { "name": "os ⋅ electron", "color": "#0097A7" },
   { "name": "os ⋅ linux", "color": "#0097A7" },
   { "name": "os ⋅ mac", "color": "#0097A7" },
-  { "name": "os ⋅ indows", "color": "#0097A7" },
+  { "name": "os ⋅ windows", "color": "#0097A7" },
 
   { "name": "webpack v2", "color": "#CFD8DC" },
   { "name": "webpack v3", "color": "#90A4AE" },
@@ -12,6 +12,7 @@
   { "name": "p² 🔥🔥 important", "color": "#FB8C00" },
   { "name": "p³ 🔥 nice to have", "color": "#FDD835" },
   { "name": "p⁴ 💧 low", "color": "#039BE5" },
+  { "name": "p⁵ 💧💧 inconvenient", "color": "#c0e0f7" }
 
   { "name": "kind 🐛  bug", "color": "#FF420B" },
   { "name": "kind ✨ enhancement", "color": "#18AEFF" },
